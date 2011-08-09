@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hiroisojp</groupId>
-	<artifactId>java7-dolphin-tutorial</artifactId>
+	<artifactId>java7-dolphin-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
