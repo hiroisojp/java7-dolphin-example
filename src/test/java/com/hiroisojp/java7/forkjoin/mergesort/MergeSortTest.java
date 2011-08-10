@@ -6,7 +6,6 @@ import java.util.concurrent.TimeUnit;
 
 import org.junit.Test;
 
-import com.hiroisojp.java7.mergesort.MergeSortTask;
 
 public class MergeSortTest {
 

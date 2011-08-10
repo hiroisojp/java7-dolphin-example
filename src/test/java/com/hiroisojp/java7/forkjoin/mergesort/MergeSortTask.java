@@ -1,4 +1,4 @@
-package com.hiroisojp.java7.mergesort;
+package com.hiroisojp.java7.forkjoin.mergesort;
 
 import java.util.concurrent.RecursiveAction;
 
