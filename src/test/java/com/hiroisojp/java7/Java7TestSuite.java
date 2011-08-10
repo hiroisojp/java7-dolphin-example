@@ -6,6 +6,7 @@ import org.junit.runners.Suite.SuiteClasses;
 
 import com.hiroisojp.java7.coin.CoinTests;
 import com.hiroisojp.java7.forkjoin.ForkJoinTests;
+import com.hiroisojp.java7.nio.NioTests;
 
 /**
  * Java7 features Test Suite.
@@ -14,7 +15,7 @@ import com.hiroisojp.java7.forkjoin.ForkJoinTests;
  * 
  */
 @RunWith(Suite.class)
-@SuiteClasses({ CoinTests.class, ForkJoinTests.class })
+@SuiteClasses({ CoinTests.class, ForkJoinTests.class, NioTests.class })
 public class Java7TestSuite {
 
 }
